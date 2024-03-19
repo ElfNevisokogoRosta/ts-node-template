@@ -13,23 +13,23 @@ This is a template project for developing Node.js applications using TypeScript.
 2. Go to the project folder:
    ```bash
     cd ts-node-template
-
+ 
 4. Install the dependencies:
     ```bash
     npm install
-    ```
+
 or   
     ```bash
     pnpm install
-    ```
+
 or    
     ```bash
     yarn install
-    ```
+
 6. Start development mode:
    ```bash
     npm run dev
-   ```
+ 
     The address http://localhost:3333 will be your main development address. If you want to change the port, edit the indes.ts file.
 
 WARNING
