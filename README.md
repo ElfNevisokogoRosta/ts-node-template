@@ -20,6 +20,7 @@ This is a template project for developing Node.js applications using TypeScript.
 or:
     ```bash
     pnpm install 
+    
 or:
     ```bash
     yarn install
