@@ -7,18 +7,29 @@ This is a template project for developing Node.js applications using TypeScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ts-node-template.git
+   git clone https://github.com/ElfNevisokogoRosta/ts-node-template.git
+   ```
 
 2. Go to the project folder:
+   ```bash
     cd ts-node-template
 
-3. Install the dependencies:
+4. Install the dependencies:
+    ```bash
     npm install
+    ```
+or   
+    ```bash
     pnpm install
+    ```
+or    
+    ```bash
     yarn install
-4. Start development mode:
+    ```
+6. Start development mode:
+   ```bash
     npm run dev
-
+   ```
     The address http://localhost:3333 will be your main development address. If you want to change the port, edit the indes.ts file.
 
 WARNING
