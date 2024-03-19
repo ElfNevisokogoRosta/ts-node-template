@@ -17,11 +17,9 @@ This is a template project for developing Node.js applications using TypeScript.
 4. Install the dependencies:
     ```bash
     npm install
-
 or:
     ```bash
-    pnpm install
-
+    pnpm install 
 or:
     ```bash
     yarn install
