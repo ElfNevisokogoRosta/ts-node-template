@@ -18,18 +18,19 @@ This is a template project for developing Node.js applications using TypeScript.
     ```bash
     npm install
 
-or   
+or:
     ```bash
     pnpm install
 
-or    
+or:
     ```bash
     yarn install
 
 6. Start development mode:
    ```bash
     npm run dev
- 
+
+ --
     The address http://localhost:3333 will be your main development address. If you want to change the port, edit the indes.ts file.
 
 WARNING
